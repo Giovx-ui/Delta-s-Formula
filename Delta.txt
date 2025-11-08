@@ -1,0 +1,5 @@
+ Δ = b² - 4ac
+
+
+where for example  ax² - bx + c:
+    X or Y = -(b) +-(plus or minus) √(b)² - 4 * (a) *(c)
